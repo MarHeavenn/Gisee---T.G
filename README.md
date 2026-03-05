@@ -121,7 +121,7 @@ langchain-rag-tutorial/
 ```
 
 ----------
-## Uso ### Consulta básica
+## Uso ### Consulta básica con CLI RAG - SIN AUDIO
 
 ```
 uv run query_data.py "¿Qué es la ansiedad?"
