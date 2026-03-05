@@ -47,7 +47,7 @@ Este proyecto utiliza inteligencia artificial para proporcionar respuestas empá
 
 ## Tecnologías Utilizadas
 
--   **LangChain**: Framework para aplicaciones con LLM.
+-   **LangChain** - **Orquestador**: Framework para aplicaciones con LLM.
     
 -   **ChromaDB**: Base de datos vectorial para almacenamiento de embeddings.
     
